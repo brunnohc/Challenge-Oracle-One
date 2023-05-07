@@ -24,7 +24,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## Uso
 
-Para utilizar o decodificador, basta acessar o projeto
+Para utilizar o decodificador, basta acessar o projeto clicando aqui: <a href="https://brunnohc.github.io/Challenge-Oracle-One/">Clique aqui</a> 
 
 ## Contribuições
 
