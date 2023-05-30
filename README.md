@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML-red?style=flat-square&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS-blue?style=flat-square&labelColor=555555&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&labelColor=555555&logo=javascript&logoColor=white" /><img src="https://img.shields.io/github/last-commit/MarceloKade/Challenge_AluraLatam-Oracle-Decodificador_04-2023" />
+<img src="https://img.shields.io/badge/HTML-red?style=flat-square&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS-blue?style=flat-square&labelColor=555555&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&labelColor=555555&logo=javascript&logoColor=white" />
 
 </div>
 
